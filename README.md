@@ -13,24 +13,26 @@ The project is motivated by the need to enhance efficiency and productivity in g
 
 ## System Design
 ### Functional Block Diagram
-![Functional Block Diagram](path/to/functional_block_diagram.png)
+![Functional Block Diagram](images/flow_diagram.png)
 
 ### System Architecture
-![System Architecture](path/to/system_architecture.png)
+![System Architecture](images/system_architecture.png)
 
-### Hardware Connection
-- **ESP8266 Module**: ![ESP8266 Module](path/to/specifications_of_esp8266_module.png)
-- **Relay Module**: ![Relay Module](path/to/specifications_of_relay_module.png)
-- **Soil Moisture Sensor**: ![Soil Moisture Sensor](path/to/specifications_of_soil_moisture_sensor.png)
-- **DHT11 Sensor**: ![DHT11 Sensor](path/to/specifications_of_dht11_sensor.png)
-- **Water Pump**: ![Water Pump](path/to/specifications_of_water_pump.png)
-- **LDR Sensor**: ![LDR Sensor](path/to/specifications_of_ldr_sensor.png)
-- **Cooling Fan**: ![Cooling Fan](path/to/specifications_of_cooling_fan.png)
+### Hardwares Used
+- **ESP8266 Module**
+- **Relay Module**
+- **Soil Moisture Sensor**
+- **DHT11 Sensor**
+- **Water Pump**
+- **LDR Sensor**
+- **Cooling Fan**
   
 ## Final Model
 ### Photo of the Final Model
-Here is the final model of the Greenhouse Monitoring System:
-![Final Model](path/to/final_model_photo.png)
+<img src="images/model.jpg" alt="Final Model" width="300"/>
+
+### Blynk App Interface
+<img src="images/Blynk_app.jpg" alt="Blynk App Interface" width="300"/>
 
 ## Conclusion
 The Greenhouse Monitoring System successfully provides real-time monitoring and control of environmental factors, enhancing crop yield and resource efficiency. The integration of IoT technology allows for more precise and automated greenhouse management, reducing the need for manual intervention and improving overall efficiency.
