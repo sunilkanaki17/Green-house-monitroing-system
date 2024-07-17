@@ -26,6 +26,11 @@ The project is motivated by the need to enhance efficiency and productivity in g
 - **Water Pump**: ![Water Pump](path/to/specifications_of_water_pump.png)
 - **LDR Sensor**: ![LDR Sensor](path/to/specifications_of_ldr_sensor.png)
 - **Cooling Fan**: ![Cooling Fan](path/to/specifications_of_cooling_fan.png)
+  
+## Final Model
+### Photo of the Final Model
+Here is the final model of the Greenhouse Monitoring System:
+![Final Model](path/to/final_model_photo.png)
 
 ## Conclusion
 The Greenhouse Monitoring System successfully provides real-time monitoring and control of environmental factors, enhancing crop yield and resource efficiency. The integration of IoT technology allows for more precise and automated greenhouse management, reducing the need for manual intervention and improving overall efficiency.
